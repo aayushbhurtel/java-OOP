@@ -6,3 +6,11 @@ class Test {
        member variables
        methods
 }
+
+Java Objects
+An object is a major element in a class which has a state and behavior. It is an instance of a class which can access your data. The ‘new’ keyword is used to create the object.
+
+//Declaring and Initializing an object
+ `Test t = new Test();`
+ 
+ 
